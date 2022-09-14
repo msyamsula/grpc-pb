@@ -1,4 +1,4 @@
-module github.com/msyamsula/grpc-pb2
+module github.com/msyamsula/grpc-pb
 
 go 1.14
 
